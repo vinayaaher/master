@@ -1,0 +1,15 @@
+.card:hover {
+  cursor: pointer;
+  border: 2px solid gray;
+  padding: 2px;
+}
+
+.card:focus {
+  border: 2px solid blue;
+  padding: 2px;
+}
+
+.card {
+  border: 2px solid white;
+  padding: 2px;
+}
